@@ -17,6 +17,7 @@ public class homepagetest {
 	@BeforeTest
 	public void setup() {
 		System.out.println("Browser open");
+		System.out.println("browser maximixed");
 	}
 	
 	@Test(enabled = false)
